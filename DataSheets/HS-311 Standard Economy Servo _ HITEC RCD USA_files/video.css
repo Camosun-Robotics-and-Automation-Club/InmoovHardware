@@ -1,0 +1,10 @@
+/* CSS Document */
+.video-container 			{ position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+.video-container iframe, 
+.video-container object, 
+.video-container embed 		{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+video 						{ max-width: 100%; height: auto; }
+.video-wrapper 				{ width:  100%; max-width: 840px; margin:20px auto 0 auto; }
+#slider div 				{ position: relative; }
+#home_scroll #slider img.video_playing { position:absolute; width:auto; border: none; top:32%; left:25% }
+#home_scroll .bx-wrapper .bx-pager { margin-top:20px }
