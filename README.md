@@ -1,2 +1,2 @@
 # InmoovHardware
-For anything hardware for our Inmoov
+For anything hardware relating to the Camosun College Robotic and Automation club Inmoov project.
